@@ -15,7 +15,7 @@ My journey throught my Marine Corp career has led me to develop a passion for cy
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis        | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -23,7 +23,7 @@ My journey throught my Marine Corp career has led me to develop a passion for cy
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -47,12 +47,12 @@ My journey throught my Marine Corp career has led me to develop a passion for cy
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Home Network Implementation with VLAN Segmentation 
+- Azure SIEM and Honey pot 
+- SOAR/EDR Integration and Automation 
