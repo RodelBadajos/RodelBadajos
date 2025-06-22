@@ -29,7 +29,7 @@ My journey throught my Marine Corp career has led me to develop a passion for cy
 <div>
     <img src="https://img.shields.io/badge/-Cisco-1679A7?&amp;style=for-the-badge&amp;logo=cisco&amp;logoColor=white" />
     <img src="https://img.shields.io/badge/-Fortinet-red?&style=for-the-badge&logo=fortinet&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+
 </div>
 
 ### Endpoint
