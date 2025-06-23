@@ -15,12 +15,12 @@ My journey throught my Marine Corp career has led me to develop a passion for cy
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis        | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis        | <a href="https://github.com/RodelBadajos/SOAR-EDR-Integration-and-Automation-Project/tree/main">SOAR/EDR Integration and Automation</a>|
+| Network Traffic Monitoring and Attack Detection |  <a href="https://github.com/RodelBadajos/SOAR-EDR-Integration-and-Automation-Project/tree/main">SOAR/EDR Integration and Automation</a>|
+| Security Automation with Tines SOAR         |  <a href="https://github.com/RodelBadajos/SOAR-EDR-Integration-and-Automation-Project/tree/main">SOAR/EDR Integration and Automation</a>|
+| Incident Response Planning and Execution      |  <a href="https://github.com/RodelBadajos/SOAR-EDR-Integration-and-Automation-Project/tree/main">SOAR/EDR Integration and Automation</a>|
+| Case Management with Slack                  |  <a href="https://github.com/RodelBadajos/SOAR-EDR-Integration-and-Automation-Project/tree/main">SOAR/EDR Integration and Automation</a>|
+| Scripting and Automation for Threat Mitigation |  <a href="https://github.com/RodelBadajos/SOAR-EDR-Integration-and-Automation-Project/tree/main">SOAR/EDR Integration and Automation</a>|
 
 ## Tools
 
@@ -53,6 +53,6 @@ My journey throught my Marine Corp career has led me to develop a passion for cy
 </div>
 
 ## Projects
+-  <a href="https://github.com/RodelBadajos/SOAR-EDR-Integration-and-Automation-Project/tree/main">SOAR/EDR Integration and Automation</a>
 - Home Network Implementation with VLAN Segmentation 
 - Azure SIEM and Honey pot 
-- SOAR/EDR Integration and Automation 
